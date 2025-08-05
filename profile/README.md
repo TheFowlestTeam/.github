@@ -1,7 +1,18 @@
 ## About us
 
-We are The Fowlest Team, a group that makes games. We use Love2D and other tools sometimes, or even write our own! Our limits don't exist, so we push the boundaries of each title and every little update making things better, and better, and better, until it's the best we can do, but we don't stop and keep on making things the greatest they can be.
+We are Fowlest, a team that redefines two-dimensional games, and the creation of them. We started out as just two people but we have doubled in size ever since our debut in July of 2025.
 
 ## The Team
 
-Our team consists of two people, the brains, FowluhhDev, and the ideator, GamerGage, and us both put in effort to make top-notch games and experiences that tell immersive stories.
+- FowluhhDev
+    - Lead Developer and Artist, also Composer
+    - Head of Fowlest, FowlestEngine
+- GamerGage
+    - Secondary Developer, Ideator
+    - Co-head of Fowlest, FowlestEngine
+- Skinned
+    - Ideator, Playtester
+    - Co-head of Fowlest
+- Avery
+    - Secondary/Concept Artist
+    - Co-head of Fowlest
